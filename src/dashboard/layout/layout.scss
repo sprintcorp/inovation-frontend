@@ -1,0 +1,11 @@
+.main_card{
+  background: #FFFFFF;
+  margin:30px auto 10px;
+  min-height: 120vh;
+  max-width: calc(100%);
+  min-width: 90%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+}
